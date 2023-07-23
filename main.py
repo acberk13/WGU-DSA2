@@ -1,4 +1,4 @@
-# Andrew Berkler Student ID 010479517
+
 
 import datetime
 from hash import *
